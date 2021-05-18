@@ -11,8 +11,8 @@ public class Calculadora {
 	}
 	
 	public int suma() {
-		int resultado=numA+numB;
-		return resultado;
+		int resultado2=numA+numB;
+		return resultado2;
 	}
 	
 	public int resta() {
